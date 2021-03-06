@@ -1,1 +1,2 @@
 My Git Commands File
+There are few basic commands in Git
